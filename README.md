@@ -4,7 +4,7 @@
 
 ## Description
 
-The purpose of this notebook is to explore housing pricing collected and analyze by Zillow and compare it to the US Census' household median income data.
+The purpose of this notebook is to explore housing pricing collected and analyzed by Zillow and compare it to the US Census' household median income data.
 This analysis aims to see if there are any similiarities between today's housing market standings against the infamous 2008's housing market crash.
 
 ---
@@ -23,8 +23,8 @@ This analysis aims to see if there are any similiarities between today's housing
     * [Install Libraries](#install-libraries)	 
 4. [Usage](#usage)
     * [Setup](#setup)
-    * [Jupyter Notebook: Linux Setup With Command Line](#jupyter-notebook:-linux-setup-with-command-line)
-    * [VSCode: Linux Setup With Command Line](#vscode:-linux-setup-with-command-line)
+    * [Jupyter Notebook: Linux Setup With Command Line](#jupyter-notebook--linux-setup-with-command-line)
+    * [VSCode: Linux Setup With Command Line](#vscode--linux-setup-with-command-line)
     * [Tips](#tips)
 5. [Contributors](#contributors)
 5. [Appendix](#appendix)
